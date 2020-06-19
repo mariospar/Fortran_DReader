@@ -36,7 +36,7 @@ gfortran DReader.f95 -o [your_preferred_name].exe
 ~~~
 
 ## Other OS Issues
-Fortran does not include any module or intrinsic function to retrieve OS info, thus it wasn't feasible to control the program's output and format it. To run the program on Linux, you will have to go through the source code and remove any **execute command line** code lines as well as **explicitely determining the file** from you which you want to retrieve the data.
+Fortran does not include any module or intrinsic function to retrieve OS info, thus it wasn't feasible to control the program's output and format it. To run the program on Linux, you will have to go through the source code and remove any **execute command line** code lines as well as **explicitely determining the file** from which you want to retrieve the data.
 I am aware of this inconvenience and I am eager to patch this in a future commit, but till now I haven't found an elegant way to incorporate this feature. Should you have a suggestion please contact me. 
 
 ## Contributors

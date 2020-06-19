@@ -46,4 +46,4 @@ This project welcomes contributions and suggestions.
 
 ## License
 
-The DReader is Copyright (c) 2020 Marios Paraskevas, under the MIT License. See [LICENSE](https://github.com/mariospar/Fortran_DReader/blob/master/LICENSE) for details.
+The DReader is Copyright &copy; 2020 Marios Paraskevas, under the MIT License. See [LICENSE](https://github.com/mariospar/Fortran_DReader/blob/master/LICENSE) for details.

@@ -6,12 +6,12 @@
 
 ## Installation    
 
-Unfortunately, DReader is a dedicated to Windows application, but it can be modified in order to run on other OS. *(More about that later)* 
+Unfortunately, DReader is a dedicated to Windows application, but it can be modified in order to run on another OS. *(More about that later)* 
 
 
 ### Compilers  
 
-There are many fortran compilers but it seems that the most common one is **`gfortran`**, which is part of the `MINGW-W64 GCC Compiler`.   
+There are many fortran compilers but it seems that the most common is **`gfortran`**, which is part of the `MINGW-W64 GCC Compiler`.   
 To install it, follow this [link](http://mingw-w64.org/doku.php/download)  
 #### **Note:**  
 *Make sure to add the mingw-w64 binaries to your environment variables*
@@ -23,7 +23,7 @@ You can install gnuplot from this [link](https://sourceforge.net/p/gnuplot/gnupl
 
 ## Getting Started  
 
-To compile the DReader.f95 file to an executable, type:  
+To compile the DReader.f95 file to an executable:  
 1. Open Windows Terminal
 2. Change directory to DReader.f95's parent directory
 3. Type:  

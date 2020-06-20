@@ -1,7 +1,7 @@
 # Fortran_DReader
 
 ## About  
-`DReader` is a fast, user friendly and simple data analyzer coded in Fortran, running in Windows. It can sort data, find statistical values as well as plot variables in 2D space, using gnuplot. DReader can read
+`DReader` is a fast, user friendly and simple data analyzer coded in Fortran, running on Windows. It can sort data, find statistical values as well as plot variables in 2D space, using gnuplot. DReader can read
 **.txt** and **.csv** file formats, in which their first row includes the labels, or "features".  
 
 ## Installation    
